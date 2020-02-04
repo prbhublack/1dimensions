@@ -35,7 +35,7 @@ public class Stepdef {
 	@When("User clik the login button")
 	public void user_clik_the_login_button() {
 		
-		System.out.println("prabhu");
+		System.out.println("prabhuuuuuuu");
 	}
 
 	@Then("user Exit the browser")
